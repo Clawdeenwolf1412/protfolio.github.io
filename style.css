@@ -1,0 +1,33 @@
+#one{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  background-color: rgb(1, 4, 4);
+  border: none;
+}
+/* p,h3{
+  text-align: center;
+} */
+#two{
+  text-align: center;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  color: white;
+  background-color: rgb(1, 4, 4);
+  border: none;
+}
+a:hover{
+  text-decoration:underline;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+#into
+{
+  text-align: center;
+  border: navajowhite;
+ 
+}
+
+
+
